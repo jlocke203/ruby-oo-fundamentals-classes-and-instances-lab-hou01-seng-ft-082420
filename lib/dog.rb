@@ -1,4 +1,5 @@
 class Dog
+end 
   
   fido = Dog.new,
   
@@ -6,5 +7,3 @@ class Dog
   
   lassie = Dog.new
   
-  
-end 
